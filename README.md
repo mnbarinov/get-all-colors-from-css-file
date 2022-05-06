@@ -1,6 +1,6 @@
 # Get all colors from CSS file (BASH Script)
 ![CSS COLOR](https://raw.githubusercontent.com/mnbarinov/get_all_colors_from_css_file_script/main/csscolor.png)<br />
-Get all colors from CSS file script
+Get all colors from CSS file
 
 <h2>Dependencies</h2>
 <ol>
